@@ -32,4 +32,5 @@ Caso você queira desfazer o procedimento, execute o programe novamente e clique
 ![image](https://github.com/evandro-dev23/Agendar_desligamento_pc_windows/assets/148179713/475a20a5-0ba5-43e6-9849-fa0112fe06cd)
 
 AGRADECIMENTO
-   Esse programa está sujeito a melhorias e provavelmente passará por algumas. Fique à vontade para utiliza-lo e/ou modifica-lo. E obrigado por dedicar um pouco do seu tempo para ler esse mini tutorial.
+
+Esse programa está sujeito a melhorias e provavelmente passará por algumas. Fique à vontade para utiliza-lo e/ou modifica-lo. E obrigado por dedicar um pouco do seu tempo para ler esse mini tutorial.
